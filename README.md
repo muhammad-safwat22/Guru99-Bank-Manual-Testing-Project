@@ -293,7 +293,7 @@ This project has also been shared on LinkedIn with a detailed walkthrough,
 key achievements, screenshots, and project highlights.
 
 🔗 **LinkedIn Post:**  
-h
+https://www.linkedin.com/posts/muhammad-safwat-qa_softwaretesting-manualtesting-qa-activity-7479625276063264768-YlwX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcbsC0B20PhmB98sHiwzPjAIlq4gxTYjY0
 
 ------------------------------------------------------------------------
 
