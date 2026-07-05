@@ -115,7 +115,7 @@ The following project artifacts were reviewed before test case design:
 # 📊 Test Metrics
 
 | Metric | Value |
-|--------|------:|
+|--------|------|
 | Total Test Cases | 373 |
 | Executed Test Cases | 373 |
 | Passed | 229 |
@@ -284,6 +284,16 @@ The repository includes screenshots for:
 4.  Read the Change Request Analysis.
 5.  Review the Test Closure Report.
 6.  Explore the Jira screenshots.
+
+------------------------------------------------------------------------
+
+## 📢 Project Showcase
+
+This project has also been shared on LinkedIn with a detailed walkthrough,
+key achievements, screenshots, and project highlights.
+
+🔗 **LinkedIn Post:**  
+h
 
 ------------------------------------------------------------------------
 
