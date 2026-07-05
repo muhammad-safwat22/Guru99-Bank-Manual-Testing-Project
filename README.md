@@ -114,18 +114,18 @@ The following project artifacts were reviewed before test case design:
 
 # 📊 Test Metrics
 
-  Metric                           Value
-  ------------------------- ------------
-  Total Test Cases                   373
-  Executed Test Cases                373
-  Passed                             229
-  Failed                             144
-  Total Defects                      144
-  Closed Defects                     129
-  Open Defects                        13
-  Deferred Defects                     2
-  Defect Rejection Ratio       **1.39%**
-  Test Case Effectiveness     **38.61%**
+| Metric | Value |
+|--------|------:|
+| Total Test Cases | 373 |
+| Executed Test Cases | 373 |
+| Passed | 229 |
+| Failed | 144 |
+| Total Defects | 144 |
+| Closed Defects | 129 |
+| Open Defects | 13 |
+| Deferred Defects | 2 |
+| Defect Rejection Ratio | **1.39%** |
+| Test Case Effectiveness | **38.61%** |
 
 ------------------------------------------------------------------------
 
